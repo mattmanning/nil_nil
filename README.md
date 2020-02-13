@@ -3,7 +3,9 @@ Calling an undefined method on nil returns nil
 
 ## Install
 
-gem install nil_nil
+```
+$ gem install nil_nil
+```
 
 ## Usage
 
